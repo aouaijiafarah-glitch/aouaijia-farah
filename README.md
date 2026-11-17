@@ -21,7 +21,7 @@ I enjoy combining creativity and programming to transform ideas into meaningful 
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Frontend**
 - HTML5, CSS3, JavaScript, Bootstrap, Angular
@@ -48,7 +48,7 @@ I enjoy combining creativity and programming to transform ideas into meaningful 
 
 ##  Featured Projects
 
-### 📧 MailMaquette — Email Campaign Design Application
+###  MailMaquette — Email Campaign Design Application
 
 A web application for creating and customizing email campaign templates, with AI-assisted generation.
 
@@ -77,7 +77,7 @@ A multi-role web platform connecting students with mentors through dedicated spa
 
 *Laravel • PHP • MySQL • Bootstrap • GraphQL*
 
-### 📱 Student Planner — Mobile Application
+###  Student Planner — Mobile Application
 
 A mobile application designed to help students organize their activities and plan their daily tasks.
 
