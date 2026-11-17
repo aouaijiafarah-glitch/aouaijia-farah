@@ -30,13 +30,13 @@ I enjoy combining creativity and programming to transform ideas into meaningful 
 - PHP, Laravel, Symfony
 
 **Databases**
-- MySQL, SQL, Oracle Database
+- MySQL, SQL, PL/SQL, Oracle Database
 
 **APIs & Integration**
 - REST API, GraphQL, Groq API
 
 **Tools & Platforms**
-- Git, GitHub, Visual Studio Code, XAMPP, phpMyAdmin
+- Git, GitHub, Visual Studio Code, NetBeans, Android Studio, XAMPP, WAMP, phpMyAdmin
 
 **Design & Multimedia**
 - Figma, Photoshop, Illustrator, Blender, Unity
@@ -48,13 +48,15 @@ I enjoy combining creativity and programming to transform ideas into meaningful 
 
 ##  Featured Projects
 
-###  MailMaquette — Email Campaign Design Application
+###  MailMaquette — HTML Email Campaign Mockup Generator
 
-A web application for creating and customizing email campaign templates, with AI-assisted generation.
+A web application designed to generate and customize HTML mockups for email marketing campaigns.
 
-- Development of customizable email templates and campaign management features.
-- Integration of AI-assisted generation, live preview, and ZIP export.
-- Implementation of user and administrator spaces.
+- Development of a web application based on MVC architecture.
+- Management of users and email templates.
+- AI-assisted generation of HTML email mockups.
+- Customization of email mockups with preview and ZIP export.
+- Implementation of an administrator space.
 
 *Laravel • PHP • MySQL • JavaScript • Groq API*
 
@@ -77,7 +79,7 @@ A multi-role web platform connecting students with mentors through dedicated spa
 
 *Laravel • PHP • MySQL • Bootstrap • GraphQL*
 
-###  Student Planner — Mobile Application
+### 📱 Student Planner — Mobile Application
 
 A mobile application designed to help students organize their activities and plan their daily tasks.
 
@@ -102,11 +104,11 @@ Exploring 3D modeling, scene creation, and interactive experiences through multi
 
 ##  Let's Connect!
 
-- **Email:** aouaijiafarah@gmail.com
+-  **Email:** aouaijiafarah@gmail.com
 -  **LinkedIn:** https://www.linkedin.com/in/farah-aouaijia-00a663333/
 
 ---
 
 ###  Turning ideas into digital experiences.
 
-*Thanks for visiting my profile!* 💙
+*Thanks for visiting my profile!* 
